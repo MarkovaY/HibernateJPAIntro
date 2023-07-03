@@ -9,7 +9,7 @@
             <property name="hibernate.connection.username"
                       value="root"/>
             <property name="hibernate.connection.password"
-                      value="JavaDBMay2023-"/>
+                      value="1234"/>
             <property name="hibernate.dialect"
                       value="org.hibernate.dialect.MySQL8Dialect"/>
             <property name="hibernate.hbm2ddl.auto" value="update"/>
